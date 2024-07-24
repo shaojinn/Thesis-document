@@ -131,7 +131,7 @@ VGTYPE S
 #
 # Layer 2DGrid (NOTE: num_grid_x must be = 2 for 2D grids)
 #VGGRID  2 501 106  0.0 0.0 -5.0  1.0 1.0 1.0  SLOW_LEN # this grid is 400km in distance and from -5km to 100km in depth
-VGGRID  2 901 106  0.0 0.0 -5.0  1.0 1.0 1.0  SLOW_LEN # this grid is 600km in distance and from -5km to 100km in depth
+VGGRID  2 901 106  0.0 0.0 -5.0  1.0 1.0 1.0  SLOW_LEN 
 
 
 # -----------------------------------------------------------------------------
@@ -270,7 +270,7 @@ GT_PLFD  1.0e-3  0
 # =============================================================================
 # Time2EQ control file statements
 # =============================================================================
-#
+# THIS PART WAS NOT USED.
 #
 
 # EQFILES - Input and Output File Root Name
