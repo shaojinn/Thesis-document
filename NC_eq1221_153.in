@@ -423,7 +423,7 @@ EQQUAL2ERR 0.05 0.1 0.5 1.0 99999.9
 #LOCFILES ./pl/NC_GPD_th0.99_0596Hz_10phases_err5.pl NLLOC_OBS  ./time/layer  ./loc/NC_GPD/NC
 #LOCFILES ./pl/NC_GPD_2018_th0.99_0596Hz_10phases_noZIthan4.pl NLLOC_OBS ./time/layer  ./loc/NC_GPD/sparse/575ev/NC
 #LOCFILES ./pl/NC_EQT_th0.1_6phases_err5.nlloc NLLOC_OBS  ./time/layer  ./loc/NC_EQT/NC
-LOCFILES ./pl/hyp_eq1221_153.nll NLLOC_OBS  ./time/layer  ./loc/NC_eq1221_153_stcorr_from_nll_no_stcorr/NC
+LOCFILES ./pl/hyp_eq1221_153.nll NLLOC_OBS  ./time/layer  ./loc/NC_eq1221_153/NC
 
 # LOCHYPOUT - Output File Types
 # optional, non-repeatable
